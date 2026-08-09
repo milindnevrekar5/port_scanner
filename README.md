@@ -18,11 +18,11 @@ A fast, multithreaded TCP port scanner built in Python. This reconnaissance tool
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/python-port-scanner.git
+   git clone https://github.com/YOUR-USERNAME/port-scanner.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd python-port-scanner
+   cd port-scanner
    ```
 
 ## 💻 Usage
