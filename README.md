@@ -64,7 +64,3 @@ Open ports summary:
 ## ⚠️ Disclaimer
 
 **Educational Purposes Only.** This tool was created for educational purposes and ethical hacking only. You must have explicit, written permission to scan any network, application, or device that you do not own. The creator of this tool is not responsible for any misuse or damage caused by this program.
-
-## 📜 License
-
-Distributed under the MIT License.
